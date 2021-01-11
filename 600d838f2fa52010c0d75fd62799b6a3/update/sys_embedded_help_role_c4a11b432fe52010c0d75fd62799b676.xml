@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="meghan_s_app" name="meghan_s_app">80a11b432fe52010c0d75fd62799b673</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-11 15:52:36</sys_created_on>
+        <sys_id>c4a11b432fe52010c0d75fd62799b676</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80a11b432fe52010c0d75fd62799b673</sys_name>
+        <sys_package display_value="Meghan's App" source="x_264146_meghan_s">600d838f2fa52010c0d75fd62799b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meghan's App">600d838f2fa52010c0d75fd62799b6a3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c4a11b432fe52010c0d75fd62799b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-11 15:52:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

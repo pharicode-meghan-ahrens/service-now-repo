@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Meghan's table" max_length="40" name="x_264146_meghan_s_table" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="200" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

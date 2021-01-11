@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x.264146.workspace.meghan_s_app</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-11 15:52:35</sys_created_on>
+        <sys_id>80a11b432fe52010c0d75fd62799b66e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.264146.workspace.meghan_s_app</sys_name>
+        <sys_package display_value="Meghan's App" source="x_264146_meghan_s">600d838f2fa52010c0d75fd62799b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Meghan's App">600d838f2fa52010c0d75fd62799b6a3</sys_scope>
+        <sys_update_name>sys_security_acl_80a11b432fe52010c0d75fd62799b66e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-11 15:52:35</sys_updated_on>
+        <type display_value="ux_page">b9eb8a1b873303002941b53046cb0b18</type>
+    </sys_security_acl>
+</record_update>
